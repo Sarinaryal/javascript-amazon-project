@@ -1,5 +1,0 @@
-/* in order to work modules we need to use live server
-otherwise it wont work 
-
-it avoids naming conflicts
-*/
